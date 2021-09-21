@@ -5,6 +5,6 @@ public class Objective2Lab1 {
     /*
       Your solution goes here
     */
-    system.out.println(hello);
+    System.out.println(hello);
   }
 }
