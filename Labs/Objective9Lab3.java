@@ -18,10 +18,10 @@ public class Objective9Lab3 {
        }
        else if (selection == 3){
          System.out.println("Goodbye");
-         KB.close();
+        KB.close();
     }
    }
-}
+ }
 
     public static void printMenu() {
       System.out.println("_____Menu_____");
