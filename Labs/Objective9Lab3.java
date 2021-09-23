@@ -20,7 +20,7 @@ public class Objective9Lab3 {
          System.out.println("Goodbye");
          KB.close();
     }
-  }
+   }
 }
 
     public static void printMenu() {
